@@ -116,6 +116,13 @@ $ git log
 
 illustration: [source](https://res.cloudinary.com/practicaldev/image/fetch/s--Si7ksd-d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AdiRLm1S5hkVoh5qeArND0Q.png)
 
+12 bis. Mettre à jour la branche de votre dépôt distant
+
+```
+$ git push
+
+```
+
 13. Depuis le système gérant votre dépôt distant (GitHub, Gitea, GitLab, Bitbucket etc.) faire une `pull request` entre votre branche de dev bis et votre branche de dev principale
 
 👉 Pour plus d'informations, se référer à la documentation de votre système de dépôt distant.
