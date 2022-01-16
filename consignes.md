@@ -126,7 +126,7 @@ Dans ce cas précis, la branche bis est en avance d'un commit sur la branche pri
 
 👉 Pour plus d'informations sur les `pull requests` vous pouvez vous référer à cet [article](https://blog.mergify.com/what-is-a-pull-request/) et plus largement à ce [blog](https://blog.mergify.com/) 📚
 
-14. Suite à cette validation, mettre à jour son dépôt local et plus précisément sa branch de dev principale et vérifier qu'elle a bien avancé d'un nouveau commit
+14. Suite à cette validation, mettre à jour son dépôt local et plus précisément sa branche de dev principale et vérifier qu'elle a bien avancé d'un nouveau commit
 
 ```
 $ git checkout cam_dev_branch
