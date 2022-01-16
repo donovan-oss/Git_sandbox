@@ -80,7 +80,7 @@ $ git branch -D cam_dev_branch_quater
 9. Supprimer aussi la branche distante
 
 ```
-$ git push origin --delete cam_dev_branch_ter
+$ git push origin --delete cam_dev_branch_quater
 ```
 
 ⚠️ **ATTENTION** ⚠️ cette manipulation est lourde de conséquence, elle est à vérifier plusieurs fois avant de la confirmer.
