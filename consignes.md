@@ -1,6 +1,6 @@
 ## Git Sanbox
 
-1. Forkez ce dépôt depuis le système gérant vos dépôts distants (GitHub, Gitea, GitLab, Bitbucket etc.) pour créer son propre bac à sable. Vous pouvez récupérer le projet en local à l'aide de la commande `git clone`
+1. Forkez ce dépôt depuis le système gérant vos dépôts distants (GitHub, Gitea, GitLab, Bitbucket etc.) pour créer son propre bac à sable. Puis, vous pouvez récupérer le projet en local à l'aide de la commande `git clone`
 
 
 2. Avant de démarrer, bien observer la structure du projet :
