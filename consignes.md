@@ -85,6 +85,8 @@ $ git push origin --delete cam_dev_branch_quater
 
 ⚠️ **ATTENTION** ⚠️ cette manipulation est lourde de conséquence, elle est à vérifier plusieurs fois avant de la confirmer.
 
+La 3ème elle aussi ne sera plus utile, re faire les mêmes manipulations de suppression tant en local que sur le dépôt distant.
+
 10. Se placer sur la seconde branche de dev, ajouter un fichier `cool.py`, jeter un oeil au résultat
 
 ```
